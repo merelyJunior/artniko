@@ -54,7 +54,7 @@ $(document).ready(function () {
     items: 1,
     center: true,
     nav: true,
-    navText: ["<img src='/img/Button1.png'>", "<img src='/img/Button2.png'>"],
+    navText: ["<img src='./img/Button1.png'>", "<img src='./img/Button2.png'>"],
     responsive: {
       0: {
         nav: false,
